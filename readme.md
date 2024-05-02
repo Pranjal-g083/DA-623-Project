@@ -13,7 +13,7 @@ Roll No.: 200101083
 6. scikit-image
 
 
-Please make sure to install the above modules before running the code. You can install the modules using the following command:
+Please make sure to install the above modules before running the code (`code.ipynb` file). You can install the modules using the following command:
 ```bash
 pip install opencv-python numpy scipy matplotlib tkinter scikit-image
 ```
